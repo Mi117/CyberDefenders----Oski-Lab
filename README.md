@@ -3,7 +3,7 @@ CyberDefenders — Oski Lab Walkthrough
 
 INTRO
 
-The lab focuses on the detailed analysis of a malicious campaign involving a file associated with the SETALC malware, part of the InfoStealer family. It emerged in early 2023 and is sold as a Malware-as-a-Service (MaaS) on underground forums. Stealc is designed to steal sensitive information such as usernames, passwords, credit card numbers, and data from web browsers, cryptocurrency wallets, email clients, and messaging apps.
+The lab focuses on the detailed analysis of a malicious campaign involving a file associated with the STEALC malware, part of the InfoStealer family. It emerged in early 2023 and is sold as a Malware-as-a-Service (MaaS) on underground forums. Stealc is designed to steal sensitive information such as usernames, passwords, credit card numbers, and data from web browsers, cryptocurrency wallets, email clients, and messaging apps.
 
 SCENARIO
 
